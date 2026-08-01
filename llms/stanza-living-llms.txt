@@ -1,0 +1,20 @@
+# Stanza Living
+
+> Stanza Living is one of India's largest managed accommodation and co-living platforms (founded 2017, headquartered in Gurugram). It offers professionally managed, fully furnished, brokerage-free residences — student housing, co-living for working professionals, and managed apartments — across 24+ Indian cities. It operates as a consumer web and mobile brand and does not publish a public developer API.
+
+## About
+- [Website](http://www.stanzaliving.com): Consumer platform for discovering and booking managed accommodation.
+- [About Us](https://www.stanzaliving.com/about-us): Company background, founders, and scale.
+- [Blog — Stanza Stories](https://www.stanzaliving.com/blog): Articles on co-living, cities, and student/professional life in India.
+
+## Company
+- [Contact / Support](https://www.stanzaliving.com/contact-us): Corporate office and support contact.
+- [Partner With Us](https://www.stanzaliving.com/partner-with-us): Property owner / landlord partnership.
+- [Careers](https://www.stanzaliving.com/careers): Open roles.
+
+## Policies
+- [Privacy Policy](https://www.stanzaliving.com/privacy-policy)
+- [Terms and Conditions](https://www.stanzaliving.com/terms-and-conditions)
+
+## Notes
+- No public developer portal, API reference, OpenAPI, SDKs, MCP server, or webhook surface was found as of 2026-07-21.
