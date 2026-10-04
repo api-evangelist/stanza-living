@@ -49,7 +49,7 @@ tags:
 - Co-Living
 - Managed Accommodation
 - Student Housing
-- Real-Estate
+- Real Estate
 - PropTech
 - Hospitality
 - India
@@ -63,6 +63,7 @@ tags_raw:
 - PropTech
 - Hospitality
 - India
+- Real-Estate
 apis: []
 maintainers:
 - FN: Kin Lane
